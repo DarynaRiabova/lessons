@@ -39,7 +39,7 @@ def log_event(username: str, status: str):
         logger.error(log_message)
 
 
-# tests - перший варіант
+# tests перший варіант, теоретично можна покращити та прибрати дублювання коду
 
 
 class TestLog(unittest.TestCase):
