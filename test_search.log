@@ -1,0 +1,10 @@
+2026-08-18 20:58:15,846 - sort_by=price, limit=5
+2026-08-18 20:58:15,849 - Test passed
+2026-08-18 20:58:15,849 - sort_by=year, limit=3
+2026-08-18 20:58:15,850 - Test passed
+2026-08-18 20:58:15,851 - sort_by=brand, limit=10
+2026-08-18 20:58:15,852 - Test passed
+2026-08-18 20:58:15,852 - sort_by=engine_volume, limit=7
+2026-08-18 20:58:15,853 - Test passed
+2026-08-18 20:58:15,853 - sort_by=price, limit=2
+2026-08-18 20:58:15,854 - Test passed
